@@ -1,1 +1,2 @@
 LINE 1
+Line 2
